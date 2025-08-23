@@ -1,0 +1,4 @@
+﻿customer_id;full_name;email;join_date;country;age;customer_segment
+301;Ivan Ivanov;ivan@email.com;15.3.2021;Bulgaria;34;Adult
+302;Maria Georgieva;maria@email.com;15.3.2021;Bulgaria;34;Adult
+307;Petar Georgiev;petar@email.com;20.1.2023;Bulgaria;28;Young Adult
